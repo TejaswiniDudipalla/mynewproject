@@ -1,4 +1,4 @@
-name: Super-Linter
+name: actions
 
 on: push
 
